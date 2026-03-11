@@ -1,6 +1,6 @@
 {
   "version": "6.6.5",
-  "firmware": "firmware.bin",
+  "url": "https://raw.githubusercontent.com/djscribble/dart-scoreboard-updates/main/updates/8f3c71a4d9b2e6f0c5a8/firmware.bin",
   "sha256": "f42346122e7b0ecc6d7210c43a691dfe81b8a36fb3b3363ba0206eb3bd7060de",
   "notes": "OTA update system implemented"
 }
