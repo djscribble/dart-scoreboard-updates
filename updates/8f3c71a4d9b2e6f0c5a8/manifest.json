@@ -2,5 +2,5 @@
   "version": "6.6.5",
   "firmware": "firmware.bin",
   "sha256": "f42346122e7b0ecc6d7210c43a691dfe81b8a36fb3b3363ba0206eb3bd7060de",
-  "notes": "added OTA updates"
+  "notes": "OTA update system implemented"
 }
