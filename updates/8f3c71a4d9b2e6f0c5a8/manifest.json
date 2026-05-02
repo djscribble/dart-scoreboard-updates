@@ -1,6 +1,6 @@
 {
-  "version": "6.9.0",
-  "url": "https://raw.githubusercontent.com/djscribble/dart-scoreboard-updates/main/updates/8f3c71a4d9b2e6f0c5a8/releases/6.9.0/firmware.bin",
-  "sha256": "68492974f2daf436a1bbea60490e73d07e2ebe712cc572a5621b6ec059693e9c",
+  "version": "7.0.0",
+  "url": "https://raw.githubusercontent.com/djscribble/dart-scoreboard-updates/main/updates/8f3c71a4d9b2e6f0c5a8/releases/7.0.0/firmware.bin",
+  "sha256": "e928bc43c9fcf150312d7fef20fe4939ec47c5216b62800caba0cf03981fb801",
   "notes": "Automated build"
 }
